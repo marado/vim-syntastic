@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Mon, 06 Oct 2014 13:55:02 +0200
+Source: vim-syntastic
+Binary: vim-syntastic
+Architecture: source all
+Version: 3.5.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: Andrea Capriotti <capriott@debian.org>
+Changed-By: Andrea Capriotti <capriott@debian.org>
+Description: 
+ vim-syntastic - Syntax checking hacks for vim
+Changes: 
+ vim-syntastic (3.5.0-1) unstable; urgency=low
+ .
+   * New upstream release
+   * Standard version bumped to 3.9.6
+Checksums-Sha1: 
+ 736ad3e6efca038759b538734d67f469eb4952c0 1031 vim-syntastic_3.5.0-1.dsc
+ e5adaf5a58277825da1dc7292aae7b01fd3bdcac 181707 vim-syntastic_3.5.0.orig.tar.gz
+ 04cc0e6084b3ebbad4b3f1d4349617bfcdde8d68 5185 vim-syntastic_3.5.0-1.debian.tar.gz
+ 6e3088987e0630f59d2d28979f85c9615f444252 99490 vim-syntastic_3.5.0-1_all.deb
+Checksums-Sha256: 
+ 7b8c43afef52e9a9842b96eea1ee3d2f17d38b70dbad2ca6d60f11a8536d64ac 1031 vim-syntastic_3.5.0-1.dsc
+ 3e86936612e279bf5a5dc3e8ec7d7ce64277453ae05b17579e662fd6271e6313 181707 vim-syntastic_3.5.0.orig.tar.gz
+ 8ebb0da2b38697081d691c632dcd2bee9b2c0e9dd1bc255c8491896f90b3b337 5185 vim-syntastic_3.5.0-1.debian.tar.gz
+ 4008f91e9828d6a21289aa8a64e18e21bed4bfe606b53fe02d18567600062e15 99490 vim-syntastic_3.5.0-1_all.deb
+Files: 
+ 9168f0e2a7ddf975d27887ea39c8d16e 1031 editors extra vim-syntastic_3.5.0-1.dsc
+ 7b8b7e39fa36e0dc15d1ee4e04c365b1 181707 editors extra vim-syntastic_3.5.0.orig.tar.gz
+ 5d4127acdd3dfffc7dacbf7edb817c4a 5185 editors extra vim-syntastic_3.5.0-1.debian.tar.gz
+ 4681b223dcd88e54d935e5df7eab17ee 99490 editors extra vim-syntastic_3.5.0-1_all.deb

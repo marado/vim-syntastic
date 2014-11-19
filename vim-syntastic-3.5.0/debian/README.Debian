@@ -1,0 +1,19 @@
+syntastic for Debian
+-----------------------
+Enabling the addons
+===================
+
+This package provides a "pathogen" addon for the vim text editor.
+It is not enabled by default. To enable it for you only, run:
+
+$ vim-addons install syntastic
+
+Similarly, to enable it for all users of this system just
+execute (as root):
+
+# vim-addons -w install syntastic
+
+vim-addons is provided by the vim-addon-manager package, have a look at its
+manpage for more information.
+
+ -- Andrea Capriotti <capriott@debian.org>  Fri, 10 Jan 2014 10:45:05 +0100

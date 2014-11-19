@@ -1,0 +1,34 @@
+vim-syntastic (3.5.0-1) unstable; urgency=low
+
+  * New upstream release
+  * Standard version bumped to 3.9.6
+
+ -- Andrea Capriotti <capriott@debian.org>  Mon, 06 Oct 2014 13:55:02 +0200
+
+vim-syntastic (3.4.0-2) unstable; urgency=low
+
+  * Added Vcs field in debian/control
+  * Changed priority to extra
+
+ -- Andrea Capriotti <capriott@debian.org>  Thu, 17 Jul 2014 13:01:00 +0200
+
+vim-syntastic (3.4.0-1) unstable; urgency=medium
+
+  * New upstream release
+  * Removed shlibs:Depends
+  * Added some external syntax checkers to Suggests control field
+
+ -- Andrea Capriotti <capriott@debian.org>  Tue, 29 Apr 2014 15:46:19 +0200
+
+vim-syntastic (3.2.0-2) unstable; urgency=medium
+
+  * Added maintainer scripts
+  * Fixed watch file
+
+ -- Andrea Capriotti <capriott@debian.org>  Fri, 11 Apr 2014 17:30:22 +0200
+
+vim-syntastic (3.2.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #734904) 
+
+ -- Andrea Capriotti <capriott@debian.org>  Fri, 10 Jan 2014 12:33:47 +0100

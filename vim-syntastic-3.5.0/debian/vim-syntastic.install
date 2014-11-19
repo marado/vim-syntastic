@@ -1,0 +1,5 @@
+doc/                          usr/share/vim/addons
+plugin/                       usr/share/vim/addons
+autoload/                     usr/share/vim/addons
+syntax_checkers/              usr/share/vim/addons
+debian/vim-syntastic.yaml     usr/share/vim/registry
